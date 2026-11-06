@@ -94,7 +94,8 @@ For detailed protocol documentation, see the [Technical Whitepaper](WHITEPAPER.m
 ### Option 1: Using Xcode
 
    ```bash
-   cd bitchat
+   git clone https://github.com/yashgurt/rescuechat.git
+   cd rescuechat
    open bitchat.xcodeproj
    ```
 
